@@ -1,0 +1,44 @@
+[
+    {
+        "Protocol": "UDP",
+        "Port": "7708",
+        "Name": "Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "QueryPort"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "7717",
+        "Name": "Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "QueryPort"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "8075",
+        "Name": "Webadmin Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "WebadminPort"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "7707",
+        "Name": "Main Game Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "28852",
+        "Name": "Server Browser",
+        "Description": "Port used for main game traffic",
+        "Ref": "ServerBrowser"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": "20560",
+        "Name": "Steam Query Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "SteamQueryPort"
+    }
+]
