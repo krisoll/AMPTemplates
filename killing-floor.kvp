@@ -68,6 +68,7 @@ Console.UserJoinRegex=^$
 Console.UserLeaveRegex=^$
 Console.UserChatRegex=^$
 Meta.OS=3
+Meta.AppConfigId=d65a8663-565a-41f9-8de9-7015f7189e67
 Meta.ConfigManifest=killing-floorconfig.json
 Meta.MetaConfigManifest=killing-floormetaconfig.json
 Meta.ConfigRoot=killing-floor.kvp
