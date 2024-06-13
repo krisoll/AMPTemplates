@@ -1,10 +1,21 @@
 [
     {
-        "UpdateStageName": "Steam Download",
-        "UpdateSourcePlatform": "All",
+        "UpdateStageName": "Download Windows",
+        "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "1250",
-        "UpdateSourceArgs": "215350",
+        "UpdateSourceData": "215350",
+        "UpdateSourceArgs": "1250",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    },
+    {
+        "UpdateStageName": "Download Linux",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "215360",
+        "UpdateSourceArgs": "1250",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "DeleteAfterExtract": true,
