@@ -9,9 +9,9 @@
     {
         "Protocol": "UDP",
         "Port": "7717",
-        "Name": "Query Port",
+        "Name": "Old Query Port",
         "Description": "Port used for main game traffic",
-        "Ref": "QueryPort"
+        "Ref": "OldQueryPort"
     },
     {
         "Protocol": "TCP",

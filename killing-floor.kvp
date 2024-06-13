@@ -1,7 +1,7 @@
 Meta.DisplayName=Killing Floor
 Meta.Description=Killing Floor Dedicated Server
 Meta.Arch=x86_64
-Meta.Author=Krisoll - Made with AMP Config Generator
+Meta.Author=Krisoll
 Meta.URL=https://store.steampowered.com/app/1250/Killing_Floor/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
